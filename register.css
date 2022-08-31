@@ -1,0 +1,32 @@
+.main{
+    background-color: rgb(200, 230, 199);
+    height: 50em;
+    padding: 90px;
+    width: auto;
+    
+}
+.regbox{
+    height: auto;
+    width: auto;
+    box-shadow: 0rem 3rem 4rem;
+    border-radius: 10px;
+    margin: auto;
+    padding: 10px;
+}
+.row{
+    padding: 7px;
+    justify-content: center;
+}
+.row input{
+    padding: 7px;
+}
+.btn{
+    width: 50%;
+    
+}
+
+
+span.error {
+    color: red ;
+    font-size: large;
+}

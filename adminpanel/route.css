@@ -1,0 +1,39 @@
+section{
+    background-color: #D9AFD9;
+    background-image: linear-gradient(62deg, #D9AFD9 0%, #97D9E1 100%);
+    position: relative;
+    height: 100vh;
+}
+.iframe{
+    position: absolute;
+    right: 0;
+    top: 5px;
+
+}
+
+table{
+    border: 1px solid black;
+}
+thead{
+    background-color: #7298c9;
+}
+.table td{
+    border: 1px solid black;
+}
+.table th{
+    border: 1px solid black;
+}
+.table{
+    border-collapse: collapse;
+    
+    
+}
+
+#up{
+    height: 27px;
+    text-decoration: none;
+}
+#del{
+    height: 27px;
+    text-decoration: none;
+}

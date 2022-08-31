@@ -1,0 +1,55 @@
+nav{
+    background-color: rgb(36, 36, 150);
+    
+}
+nav .navtext{
+    font-weight: 800px;
+    color: aliceblue;
+    padding: 5px;
+    text-decoration: none;
+    font-weight: 500;
+    text-transform: uppercase;
+    
+}
+nav a:hover{
+    background-color: aliceblue;
+    color: navy;
+    transition: 1s;
+    border-radius: 6px;
+}
+.bg{
+position: relative;
+height: 100vh;
+width: 100% ;
+
+}
+.contain{
+    position: absolute;
+    width: auto;
+    /* background-image: url('images/admin-panel.jpg') no-repeat; */
+    top: 0;
+    margin-top: 70px;
+    text-align: center;
+}
+.heading{
+    margin-left: 360px;
+    font-family: Verdana, Geneva, sans-serif;
+    font-weight: 900;
+    color: navy peony;
+    justify-content: center;
+}
+#logout{
+    position: absolute;
+    position: fixed;
+    width: 78px;
+    height: 30px;
+    padding: 1px;
+    text-align: center;
+    margin-left: 1240px;
+    margin-top: 12px;
+    background-color: rgb(41, 41, 129);
+    color: white;
+    border-radius: 5px;
+    font-weight: 600;
+    text-decoration: none;
+}

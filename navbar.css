@@ -1,0 +1,20 @@
+nav{
+    z-index: 1; 
+}
+
+nav a{
+    border: 1px solid transparent;
+}
+nav a:hover{
+    border-color: #fff;
+    border-style: groove;
+    transition: all 1s ease;
+}
+nav #logo{
+    height: 60px;
+    width: 60px;
+    
+}
+nav #logo img{
+    border-radius: 60px;
+}
